@@ -21,6 +21,6 @@
 
 - Editing of table cells by double-clicking on them has been implemented. Double-clicking on a cell of the table removes text and appends an input with the cell-input class. Only one cell can be edited at a time. On blur or 'Enter' keypress, changes are saved to the table cell, the input is removed, and the new text is set in the table cell. If an input is empty on submitting, the initial value is returned.
 
-## Result of your code:
+## Code result:
 ![Result](./images/result.png)
 
